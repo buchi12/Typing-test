@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.buchi {
+    text-align: center;
+    font-size: 40px;
+}
+
+.in {
+    margin: 20px;
+
+}
+
+.back {
+    background-color: #dac0ff;
+
+}
+
+.head {
+    color: #690cb0;
+    text-align: center;
+}
+
+.img {
+    height: 70px;
+    padding-left: 30px;
+}
+
+.para {
+    padding-left: 30px;
+    color: #323f4b;
+}
+
+.time {
+    padding-left: 30px;
+}
+
+.text {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.ze {
+    font-size: 30px;
+    font-family: bold;
+    padding-right: 5px;
+}
+
+.back1 {
+    background-color: #f3eaff;
+    margin: 30px;
+    border-color: #323f4b;
+    border-width: 30px;
+    background-size: cover;
+
+}
+
+.para1 {
+    padding: 20px;
+}
+
+.btcs {
+    margin-left: 40px;
+}
+
+.btcs1 {
+    margin-left: 20px;
+    background-color: white;
+    width: 80px;
+    border-width: 0px;
+}
+
+.container {
+    padding-bottom: 50px;
+}
